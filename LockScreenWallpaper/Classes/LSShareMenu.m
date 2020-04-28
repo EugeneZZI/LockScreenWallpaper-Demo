@@ -3,7 +3,7 @@
 //  LockScreenWallpaper
 //
 //  Created by ZZI on 10/06/15.
-//  Copyright (c) 2015 Eugene Zozulya. All rights reserved.
+//  Copyright (c) 2015 Yevhenii Zozulia. All rights reserved.
 //
 
 #import "LSShareMenu.h"
